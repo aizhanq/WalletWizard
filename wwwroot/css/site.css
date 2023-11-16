@@ -11,6 +11,11 @@ html {
 html {
     position: relative;
     min-height: 100%;
+    font-family: "Montserrat";
+}
+
+*:not(.fa-solid):not(.fa):not(.e-icons){
+    font-family: "Montserrat";
 }
 
 body {
