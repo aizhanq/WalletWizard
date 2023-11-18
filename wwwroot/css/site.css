@@ -28,6 +28,10 @@ body {
     font-size: x-large;
 }
 
+.main-content{
+    margin-left: 290px;
+}
+
 /*BreadCrumb*/
 .e-breadcrumb a, .e-breadcrumb a:hover {
     text-decoration: none !important;
@@ -140,8 +144,3 @@ body {
     border: 1px solid #fff;
 }
 
-/*Widget*/
-.widget {
-    border-radius: 1rem;
-    background-color: #1a222b;
-}
