@@ -140,6 +140,12 @@ nav.navbar {
             transform: scale(1.05) translateZ(0px);
         }
 
+/*Profile Pic*/
+img.profile-pic {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
 
 /*Radio Button Group*/
 .e-btn-group.custom-rbt-group {
